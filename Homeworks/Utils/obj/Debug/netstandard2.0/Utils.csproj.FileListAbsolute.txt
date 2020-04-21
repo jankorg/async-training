@@ -1,0 +1,8 @@
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Utils\bin\Debug\netstandard2.0\Utils.deps.json
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Utils\bin\Debug\netstandard2.0\Utils.dll
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Utils\bin\Debug\netstandard2.0\Utils.pdb
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Utils\obj\Debug\netstandard2.0\Utils.csprojAssemblyReference.cache
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfoInputs.cache
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Utils\obj\Debug\netstandard2.0\Utils.AssemblyInfo.cs
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Utils\obj\Debug\netstandard2.0\Utils.dll
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Utils\obj\Debug\netstandard2.0\Utils.pdb

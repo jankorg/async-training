@@ -1,0 +1,6 @@
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\NumberOfDivisors\bin\Debug\NumberOfDivisors.exe.config
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\NumberOfDivisors\bin\Debug\NumberOfDivisors.exe
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\NumberOfDivisors\bin\Debug\NumberOfDivisors.pdb
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\NumberOfDivisors\obj\Debug\NumberOfDivisors.csprojAssemblyReference.cache
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\NumberOfDivisors\obj\Debug\NumberOfDivisors.exe
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\NumberOfDivisors\obj\Debug\NumberOfDivisors.pdb

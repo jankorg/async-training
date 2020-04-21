@@ -1,0 +1,9 @@
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\UiFormApp\bin\Debug\UiFormApp.exe.config
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\UiFormApp\bin\Debug\UiFormApp.exe
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\UiFormApp\bin\Debug\UiFormApp.pdb
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\UiFormApp\obj\Debug\UiFormApp.csprojAssemblyReference.cache
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\UiFormApp\obj\Debug\UiFormApp.Properties.Resources.resources
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\UiFormApp\obj\Debug\UiFormApp.UiForm.resources
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\UiFormApp\obj\Debug\UiFormApp.csproj.GenerateResource.cache
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\UiFormApp\obj\Debug\UiFormApp.exe
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\UiFormApp\obj\Debug\UiFormApp.pdb

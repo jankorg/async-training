@@ -1,0 +1,9 @@
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Tasks\obj\Debug\Tasks.csprojAssemblyReference.cache
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Tasks\bin\Debug\Tasks.exe.config
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Tasks\bin\Debug\Tasks.exe
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Tasks\bin\Debug\Tasks.pdb
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Tasks\bin\Debug\Utils.dll
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Tasks\bin\Debug\Utils.pdb
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Tasks\obj\Debug\Tasks.csproj.CopyComplete
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Tasks\obj\Debug\Tasks.exe
+C:\Users\jank0\Documents\endava\repos\async-training\Homeworks\Tasks\obj\Debug\Tasks.pdb
